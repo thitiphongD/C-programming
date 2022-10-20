@@ -1,0 +1,46 @@
+The Old I/O
+- I is input 
+- O is output
+
+A Typical C Program
+
+|-------|        |-----------|        |--------|
+| Input | -----> | Something | -----> | Output |
+|-------|        |-----------|        |--------|
+
+
+C Library Output Functions
+- printf, putchar(), puts()
+- Sends one or more characters to output
+- Requires the stdio.h header file
+
+Working with escape sequences
+Escape sequences
+
+|----|---------------------------------|
+| \n | Newline, Start new line of text |
+|----|---------------------------------|
+| \t | Tab, hop over so many spaces    |
+|----|---------------------------------|
+| \' | Escape single quote             | 
+|----|---------------------------------| 
+| |" | Escape double quote             |
+|----|---------------------------------|
+| \\ | Display backslash character     |
+|----|---------------------------------|
+
+Common Placeholders
+
+|----|---------------------------------|
+| %d | Integer (whole number) values   |
+|----|---------------------------------|
+| %s | Strings                         |
+|----|---------------------------------|
+| %f | Floating point values           | 
+|----|---------------------------------| 
+| %c | Single characters               |
+|----|---------------------------------|
+| %% | The percent sign                |
+|----|---------------------------------|
+
+

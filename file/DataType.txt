@@ -1,0 +1,46 @@
+Data Type
+- Variables and constants
+- Basic types: char, int, float, double
+- Qualifiers: short, long, signed, unsigned, const
+- Declared before use
+
+Operator
+- Mathematical: +, -, *, %
+- Assignment: =, and so on
+- Relational: >, >=, <, <=, ==, !=
+- Conditional: ? :
+
+Operators
+- Logical: && , ||
+- Bitwise: &, |, ^, <<, >>
+- Unary: &, *, ++, --, sizeof
+
+|------------------------------------------|
+|         Keywords in C Programming        |
+|------------------------------------------|
+| auto     | break	  | case	 | char    |
+| const	   | continue |	default	 | do      |
+| double   | else	  | enum	 | extern  |
+| float	   | for	  | goto	 | if      |
+| int	   | long	  | register | return  |
+| short	   | signed	  | sizeof	 | static  |
+| struct   | switch	  | typedef	 | union   |
+| unsigned | void	  | volatile | while   |
+|------------------------------------------|
+
+Functions
+- True workhorses of the C language
+- Held in C Libraries
+- Defined and supported by header files
+- Thousands and thousands of functions
+
+Structure and Syntax
+- Preprocessor directives, header files, macros
+- External objects, variables, and declaration
+- The main() functions
+- Other functions
+- Statement, ending in a semicolon ;
+- Statement execution is top-down
+- Blocks of statements grouped between braces {and}
+- Construction enclosed in parentheses (and)
+- Whitespace: space, tabs, new lines (Enter key press)
